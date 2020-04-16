@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "untitled": {
+    "dungeon_man": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "untitled"
+    }
+  },
+  "defaultProject": "untitled",
+  "cli": {
+    "analytics": "b5d15587-75bf-4e3b-b80e-28244c42c44b"
+  }
 }
