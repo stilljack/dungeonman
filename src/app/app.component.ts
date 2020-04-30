@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'untitled';
+  public imagesUrl = ['/assets/images/sketches.png',
+    '/assets/images/background_2.jpg',
+    '/assets/images/background_idea.jpg',
+    '/assets/images/bees.jpg',
+    '/assets/images/bees_colour.jpg',
+    ];
 }
