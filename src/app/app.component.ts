@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'untitled';
+  title = 'Play Dungeon Man!';
   public imagesUrl = ['/assets/images/sketches.png',
     '/assets/images/background_2.jpg',
     '/assets/images/background_idea.jpg',
